@@ -1,6 +1,6 @@
 # Suckless - Simple Terminal
 
-A fock of the main simple terminal project by Suckless: https://git.suckless.org/st/
+A fork of the main simple terminal project by Suckless: https://git.suckless.org/st/
 
 ## st - simple terminal
 
