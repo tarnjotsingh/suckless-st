@@ -1,3 +1,4 @@
+*.diff
 st
 st.o
 x.o
